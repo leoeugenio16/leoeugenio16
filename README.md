@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-(https://github.com/leoeugenio16/leoeugenio16/assets/92552375/ffa3cc1a-6db2-4481-9a18-817485475439)
+[](https://github.com/leoeugenio16/leoeugenio16/assets/92552375/ffa3cc1a-6db2-4481-9a18-817485475439)
 ## 👨‍💻 ¡Hola, soy Leandro! <br><br>🌟 Programador joven y apasionado por la tecnología, con el deseo ardiente de destacar en el mundo de la programación.<br><br>🚀 Mi objetivo es impulsar proyectos innovadores y colaborar en equipos de alto rendimiento. No hay desafío que no me emocione, y siempre estoy listo para aprender y crecer.<br><br>🔧 Mis habilidades incluyen:<br>- 💻 Desarrollo de software<br>- 🌐 Desarrollo web<br>- 📊 Análisis de datos<br>- 🎨 Diseño de interfaces de usuario<br><br>💡 Creo en el poder de la tecnología para transformar el mundo y mejorar la vida de las personas. Siempre estoy en busca de oportunidades para aplicar mis habilidades y conocimientos en proyectos significativos.<br><br>💬 ¡Hablemos! Estoy emocionado por conocer a otros apasionados por la programación y colaborar en emocionantes proyectos. Siempre abierto a nuevas ideas y desafíos.<br><br>
 
 
